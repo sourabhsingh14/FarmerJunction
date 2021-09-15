@@ -19,7 +19,7 @@ const StickyHeader = () => {
 
   return (
     <Box
-      position="-webkit-sticky"
+      // position="-webkit-sticky"
       position="sticky"
       zIndex="50"
       top="0"
